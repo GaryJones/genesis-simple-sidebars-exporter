@@ -1,6 +1,6 @@
 # Genesis Simple Sidebars Exporter
 
-A WordPress plugin that adds support for exporting settings saved from Genesis Simple Sidebars plugin, via the exporter within the Genesis Framework.
+WordPress plugin that adds support for exporting settings saved from Genesis Simple Sidebars plugin, via the exporter within the Genesis Framework.
 
 ## Installation
 
@@ -18,7 +18,7 @@ A WordPress plugin that adds support for exporting settings saved from Genesis S
 3. Copy the folder to your `/wp-content/plugins/` directory.
 4. Go to the Plugins screen and click __Activate__.
 
-Check out the Codex for more information about [installing plugins manually](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
+Check out the Codex for more information [installing plugins manually](http://codex.wordpress.org/Managing_Plugins#Manual_Plugin_Installation).
 
 ### Git
 
@@ -33,6 +33,8 @@ Then go to your Plugins screen and click __Activate__.
 1. With sidebars already created via `Genesis > Simple Sidebars`, navigate to Genesis Import/Export.
 1. Ensure the relevant Simple Sidebars checkbox is selected and click the Download Export File button.
 1. Head to the new site, and import the settings file via the corresponding Import/Export page.
+
+Note that this plugin does not need to be installed on the new site for the import to succeed.
 
 ## Credits ##
 
